@@ -1,2 +1,2 @@
 # Guess_game
-Basic guess game where computer can predict user's guess by asking you a series of question.
+****___It is guessing the number game where computer can predict user's choise by asking you a series of question.____****
